@@ -11,6 +11,3 @@ Simple Shopee auto reply rating system for sellers
 5. Kindly change the variables (on top of the code) according to your needs
 6. Press ```Enter``` to run the code
 7. It is recommended to rerun the code several times in order to make sure all the ratings has been replied. This might due to fetching API from shopee sometimes didn't return all the needed data in one call (thus need to recall several time)
-
-## Disclaimer
-This source code is open publicly to be used for non-profit purpose. The author is not responsible for any damages (if any) occured during the code usage.

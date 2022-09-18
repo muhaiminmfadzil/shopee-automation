@@ -1,6 +1,6 @@
 ## Description
 
-Simple Shopee auto reply rating system for sellers
+Simple Shopee auto unfollow all followee system for sellers
 
 ## Usage
 
@@ -10,6 +10,3 @@ Simple Shopee auto reply rating system for sellers
 4. Paste the code into the console
 5. Press ```Enter``` to run the code
 6. Done
-
-## Disclaimer
-This source code is open publicly to be used for non-profit purpose. The author is not responsible for any damages (if any) occured during the code usage.
